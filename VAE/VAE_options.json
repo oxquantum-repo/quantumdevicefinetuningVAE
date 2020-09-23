@@ -1,0 +1,12 @@
+{
+"gamma": 1,
+  "alpha": 34,
+  "bs": 1,
+  "z_dim": 10,
+  "n_neighbors": 3,
+  "max_it": 200000,
+   "stat_every" :1000,
+  "saving_every" :10000,
+  "data_path":  "./data/",
+  "model_folder": "./model_folder"
+}
